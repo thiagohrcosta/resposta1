@@ -15,6 +15,7 @@ Em seguida é necessário começar a fazer os JOINS. Será necessário usar as t
 Assim fazemos um JOIN na tabela **albums** e assim temos:
  ![enter image description here](https://github.com/thiagohrcosta/resposta1/blob/master/imgs/rakeexigencia4.png?raw=true)
  ![enter image description here](https://github.com/thiagohrcosta/resposta1/blob/master/imgs/rakeexigencia5.png?raw=true)
+ <br>
 Dentro dela o identificador único é o id, logo  para acessá-lo  será necessário albums.id que deverá ser igual a algo que possa identificar a que album uma determinada música pertence.  Portanto, será necessário ir até a tabela **tracks** para pesquisar o que será comparado.
 
 > **JOIN** albums **ON** albums.id = ALGO RELACIONADO NA **TABELA TRACKS** que possa ser usado para relacionar com albums.id
