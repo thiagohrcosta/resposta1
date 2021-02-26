@@ -12,7 +12,7 @@ Assim é possível saber que 22 se refere ao ID, então no SELECT será necessá
 >
 ### A)  JOIN ALBUMS
 Em seguida é necessário começar a fazer os JOINS. Será necessário usar as tabelas **albums, artists e genres.** Sempre devemos buscar o ID como item de comparação por ser algo único em uma tabela.
-Assim fazemos um JOIN na tabela **albums** e assim temos:
+Assim fazemos um JOIN na tabela **albums** e assim temos:<br>
  ![enter image description here](https://github.com/thiagohrcosta/resposta1/blob/master/imgs/rakeexigencia4.png?raw=true)
  ![enter image description here](https://github.com/thiagohrcosta/resposta1/blob/master/imgs/rakeexigencia5.png?raw=true)
  <br>
